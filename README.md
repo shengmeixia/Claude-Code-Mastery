@@ -8,3 +8,19 @@ Still, I hope these battle-tested notes help fellow developers squeeze even more
 
 Feel free to copy, remix, and open issues when the inevitable bit-rot appears.  
 Happy shipping!
+
+
+## Philosophy
+
+- Treat Claude Code as a "teammate" rather than a "tool."
+- Anthropic's command-line tool with its hierarchical thinking modes.
+
+
+## Baseline Setup
+
+
+## Micro-tricks
+
+- Try typing **ULTRATHINK** — it triggers a rainbow highlight and switches on a more powerful, token-hungry mode.
+
+## Hooks
