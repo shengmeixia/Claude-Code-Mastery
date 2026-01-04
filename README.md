@@ -24,3 +24,8 @@ Happy shipping!
 - Try typing **ULTRATHINK** — it triggers a rainbow highlight and switches on a more powerful, token-hungry mode.
 
 ## Hooks
+
+
+## Useful Plugins
+
+- [ralph-wiggum](https://github.com/anthropics/claude-code/blob/main/plugins/ralph-wiggum) / Interactive self-referential AI loops for iterative development. Claude works on the same task repeatedly until completion
